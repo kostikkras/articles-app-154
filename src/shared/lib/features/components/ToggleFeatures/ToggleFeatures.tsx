@@ -15,5 +15,5 @@ export const ToggleFeatures = (props: ToggleFeaturesProps) => {
         return on;
     }
 
-    return off;
+    return on;
 };
