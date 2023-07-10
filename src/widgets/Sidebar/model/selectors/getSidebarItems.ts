@@ -26,7 +26,7 @@ export const useSidebarItems = () => {
             path: getRouteMain(),
             Icon: toggleFeatures({
                 name: 'isAppRedesigned',
-                off: () => MainIconDeprecated,
+                off: () => MainIcon,
                 on: () => MainIcon,
             }),
             text: 'Главная',
@@ -35,7 +35,7 @@ export const useSidebarItems = () => {
             path: getRouteAbout(),
             Icon: toggleFeatures({
                 name: 'isAppRedesigned',
-                off: () => AboutIconDeprecated,
+                off: () => AboutIcon,
                 on: () => AboutIcon,
             }),
             text: 'О сайте',
