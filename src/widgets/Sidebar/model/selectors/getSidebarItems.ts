@@ -48,7 +48,7 @@ export const useSidebarItems = () => {
                 path: getRouteProfile(userData.id),
                 Icon: toggleFeatures({
                     name: 'isAppRedesigned',
-                    off: () => ProfileIconDeprecated,
+                    off: () => ProfileIcon,
                     on: () => ProfileIcon,
                 }),
                 text: 'Профиль',
@@ -58,7 +58,7 @@ export const useSidebarItems = () => {
                 path: getRouteArticles(),
                 Icon: toggleFeatures({
                     name: 'isAppRedesigned',
-                    off: () => ArticleIconDeprecated,
+                    off: () => ArticleIcon,
                     on: () => ArticleIcon,
                 }),
                 text: 'Статьи',
