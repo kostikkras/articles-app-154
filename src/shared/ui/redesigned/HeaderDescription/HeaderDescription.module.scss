@@ -1,0 +1,110 @@
+.header {
+    color: var(--text-redesigned);
+}
+
+.description {
+    color: var(--text-redesigned);
+    word-wrap: break-word;
+}
+
+.normal {
+    .header {
+        margin-bottom: 1rem;
+    }
+
+    .description {
+        margin-bottom: 1.7rem;
+    }
+    .enter {
+        margin-bottom: 1rem;
+    }
+    .username {
+        margin-bottom: 1rem;
+    }
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.size_l,
+.size_m,
+.size_s {
+    font-family: var(--font-family-portfolio);
+}
+
+.size_l {
+    .header {
+        font-size: 2.6rem;
+        line-height: 3.5rem;
+        font-weight: var(--font-weight-l-portfolio);
+    }
+
+    .description {
+        font-size: 1.5rem;
+        font-weight: var(--font-weight-l-portfolio);
+        line-height: 2rem;
+    }
+    .enter {
+        font-size: 2rem;
+        font-weight: var(--font-weight-l-portfolio);
+    }
+    .username {
+        font-size: 2rem;
+        font-weight: var(--font-weight-l-portfolio);
+    }
+    .password {
+        font-size: 2rem;
+        font-weight: var(--font-weight-l-portfolio);
+    }
+}
+
+.size_m {
+    .header {
+        font-size: 2.6rem;
+        line-height: 3.5rem;
+        font-weight: var(--font-weight-l-portfolio);
+    }
+
+    .description {
+        font-size: 1rem;
+        font-weight: var(--font-weight-l-portfolio);
+    }
+}
+
+.size_s {
+    .header {
+        font-size: 1rem;
+        line-height: 1.6rem;
+        font-weight: var(--font-weight-l-portfolio);
+        margin-bottom: 0.9rem;
+    }
+
+    .description {
+        font-size: 1rem;
+        margin-bottom: 1.7rem;
+        font-weight: var(--font-weight-l-portfolio);
+    }
+}
+
+.bold {
+    .header {
+        font-weight: var(--font-weight-l-portfolio);
+    }
+
+    .description {
+        font-weight: var(--font-weight-m-portfolio);
+    }
+}
+
+.fullWidth {
+    width: 100%;
+}

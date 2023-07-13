@@ -27,7 +27,7 @@ Normal.decorators = [
             form: {
                 username: 'admin',
                 age: 22,
-                country: Country.Ukraine,
+                country: Country.Russia,
                 lastname: 'ulbi tv',
                 first: 'asd',
                 city: 'asf',
@@ -46,7 +46,7 @@ Dark.decorators = [
             form: {
                 username: 'admin',
                 age: 22,
-                country: Country.Ukraine,
+                country: Country.Russia,
                 lastname: 'ulbi tv',
                 first: 'asd',
                 city: 'asf',

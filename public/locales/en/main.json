@@ -1,0 +1,6 @@
+{
+    "about_me_description": "This is a demo user application React, which is a news site for authorized users.Typescript, Redux Toolkit, i18n internationalization, theme change and lazy-loading technologies have been applied. The articles are hosted on a cloud server.  ",
+    "enter": "To log in ",
+    "username": "username: user",
+    "password": "password: 123"
+}

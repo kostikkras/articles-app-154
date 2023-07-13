@@ -22,7 +22,7 @@ const primaryArgs = {
     data: {
         username: 'admin',
         age: 22,
-        country: Country.Ukraine,
+        country: Country.Russia,
         lastname: 'ulbi tv',
         first: 'asd',
         city: 'asf',
