@@ -785,12 +785,12 @@
     "profile": [
         {
             "id": "1",
-            "first": "фыаыфаыф",
-            "lastname": "ulbi",
+            "first": "Ryan",
+            "lastname": "Gosling",
             "age": 25,
             "currency": "EUR",
-            "country": "Ukraine",
-            "city": "Moscow",
+            "country": "Belarus",
+            "city": "Minsk",
             "username": "admin213",
             "avatar": "https://mobimg.b-cdn.net/v3/fetch/22/2207633df03a819cd72889249c8361a8.jpeg?w=1470&r=0.5625"
         },
@@ -798,20 +798,20 @@
             "id": "2",
             "first": "Alex",
             "lastname": "Backer",
-            "age": 465,
+            "age": 45,
             "currency": "EUR",
             "country": "Russia",
             "city": "Moscow",
-            "username": "ulbi tv",
+            "username": "Alex0612",
             "avatar": "https://i.pinimg.com/originals/9a/e0/2d/9ae02d4b4288396108ef77830a59e060.jpg"
         },
         {
             "id": "4",
             "first": "test",
             "lastname": "user",
-            "age": 465,
+            "age": 65,
             "currency": "EUR",
-            "country": "Ukraine",
+            "country": "Belarus",
             "city": "Moscow",
             "username": "testuser",
             "avatar": "https://xakep.ru/wp-content/uploads/2018/05/171485/KuroiSH-hacker.jpg"
